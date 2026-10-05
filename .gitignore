@@ -1,0 +1,30 @@
+# NetBeans
+nbproject/private/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# Build output
+build/
+dist/
+
+# Compiled Java files
+*.class
+
+# IDE files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Local configuration
+.env
+.env.local
